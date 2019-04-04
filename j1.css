@@ -1,0 +1,97 @@
+/*body{
+: center;
+	border:10px solid grey;
+	padding-left:10px;
+	
+	width:60%;
+	margin:10px 20%;
+}
+
+h1{
+	 color:#9b59b6;
+}
+
+h2{
+	color:orange;
+}
+
+li{
+	color:blue;
+}
+
+p{
+	background-color:yellow;
+}
+
+input{
+	border-width:3px;
+	border-color:red;
+}
+
+.hello{
+	background-color:white;
+}
+
+#bye{
+	border: 2px solid blue;
+}
+
+div p{
+font-size:25px;
+}
+
+input [type="text"]{
+background-color:grey;
+}
+
+div:nth-of-type(3) p {
+	background :pink;
+}
+input[type=checkbox]:checked {
+   margin-left:50px;
+
+}
+#bye::first-letter{
+	color:green;
+    font-size:100px;
+}
+
+h1:hover{
+	color:blue;
+}
+
+div:nth-of-type(3) p:nth-of-type(2)
+{
+	border:2px solid  grey;
+}
+
+label{
+	text-transform:uppercase
+}
+a:visited{
+	color:grey;
+table{
+	border-left-style:solid ;
+border-left-width: 3px;
+border-color: grey;
+	padding-left: 20px;
+border-padding:4px;
+ }
+ .funk{
+ 	font-family:"new times roman";
+
+ 	padding: 0px 10px;
+     color:blue;
+     letter-spacing: 2px;
+ }
+ .s{
+ 	padding:10px;
+ }
+ title{
+ 	padding-left:10px;
+ }
+ hr {height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-12.png) repeat-x 0 0;
+    border: 0;
+
+ }*/
