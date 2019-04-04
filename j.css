@@ -1,0 +1,70 @@
+#container{
+margin: 30px auto;
+ width: 600px;
+color :purple;
+height: 600px;
+}
+#pickcolor{
+	font-size: 60px;
+	
+
+}
+.square{
+width:30%;
+padding-bottom: 30%;
+
+background-color: purple;
+float:left;
+margin:1.66%;
+transition: background 0.3s ;
+border-radius:15%; 
+}
+#h1{
+	text-align:center;
+	margin: 0px;
+	font-size: 30px;
+	color:white;
+	background-color: steelblue;
+	text-transform: uppercase;
+	font-weight: normal;
+
+}
+#middle{
+	text-align: center;
+	margin:0px;
+	color:steelblue;
+	background-color: white;
+	border-width: none;
+
+   
+}
+button{
+	background: none;
+	border: none;
+	font-size: 20px;
+	text-transform: uppercase;
+    color: steelblue;
+    transition: all .3s;
+    font-weight: 550;
+    
+}
+body{
+	background-color: black;
+	margin:0px;
+}
+.selected{
+	background-color: steelblue;
+	color:white;
+}
+#message{
+	display:inline-block;
+	width:20%;
+	text-transform: uppercase;
+	font-weight: bold;
+	border-width: none;
+	
+}
+button:hover{
+	background-color:steelblue;
+	color: white;
+}
